@@ -2,7 +2,7 @@
 
 # TL;DR
 
-- Simple maching with telnet service running. Defaul creds can be used to login and obtian the `flag.txt`.
+- Simple maching with telnet service running. Default creds can be used to login and obtian the `flag.txt`.
 
 # Enumeration
 
@@ -29,5 +29,3 @@ Nmap done: 1 IP address (1 host up) scanned in 23.02 seconds
  - `telnet 10.129.1.17` : is used to connect to the host. Since there are no other services running on the host we can try the default credentials to login.
  - We are able to login using `root` as the username.
  - Once logged in we are able to obtain the `flag.txt`.
-
-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
