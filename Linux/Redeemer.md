@@ -2,7 +2,7 @@
 
 # TL;DR
 
-- We connect to the redis server running on the target maching, enumerate the database and retrieve the flag,
+- We connect to the redis server running on the target maching, enumerate the database and retrieve the flag.
 
 # Enumeration
 
