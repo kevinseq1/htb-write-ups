@@ -23,7 +23,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 81.43 seconds
 
 ```
-- From the scan we find the following service running:
+- From the scan we find the following service(s) running:
     - `ssh` on port`22/tcp`
     - `mongod` on port `27017/tcp` 
 
